@@ -11,7 +11,7 @@ LC1 = DNP
 ![Figure_1](https://user-images.githubusercontent.com/115007168/195722040-85052f5e-07ff-4705-99b5-8fd9d6b2e019.png)
 
 # EVB image:
-![Alt text](an205x_evb.PNG?raw=true "Title")
+![an205x_evb](https://user-images.githubusercontent.com/115007168/195723370-9b346728-00e6-4b8a-81e6-2b47ea2f075e.PNG)
 
 This PCB design evluate the chip antenna from:
 
