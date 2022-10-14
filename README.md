@@ -3,8 +3,8 @@
 # The tuned PI value:
 
 LC3 = 0.5pF
-LC2 = 5.6nH
-LC1 = DNP
+LC1 = 5.6nH
+LC2 = DNP
 
 # Return Loss S parameters:
 
